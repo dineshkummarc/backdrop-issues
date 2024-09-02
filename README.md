@@ -54,5 +54,4 @@ Procedures
 ----------
 
 We have a library of internal procedures stored in a [this repository's wiki](https://github.com/backdrop/backdrop-issues/wiki/).
-
 And a set of templates for creating issues is within the [templates directory](https://github.com/backdrop/backdrop-issues/tree/main/procedures).
